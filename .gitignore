@@ -19,6 +19,8 @@ jds/*
 config/profile.yml
 portals.yml
 modes/_profile.md
+cv.md
+article-digest.md
 my-files/
 .update-dismissed
 .update-lock
